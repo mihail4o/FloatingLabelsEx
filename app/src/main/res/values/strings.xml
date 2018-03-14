@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FloatingLabelsEx</string>
+    <string name="hint_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="err_msg_invalid_pass">Invalid Password</string>
+    <string name="err_msg_invalid_email">Invalid Email Address</string>
+    <string name="msg_invalid_creds">Credentials are invalid</string>
+</resources>
